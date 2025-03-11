@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ollama.com">
+Â  <a href="https://ollama.com">
     <img alt="ollama" height="200px" src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
   </a>
 </div>
@@ -168,3 +168,8 @@ Finally, in a separate shell, run a model:
 -  Search Results are displayed
 
 ### Desktop Search Engine Screenshots
+
+
+![image](https://github.com/user-attachments/assets/87687ca4-d517-4349-b832-da4f883f7cb6)
+![image](https://github.com/user-attachments/assets/8cd9dd70-d60f-4951-8118-b64311cdc39d)
+
