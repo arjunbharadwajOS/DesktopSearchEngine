@@ -38,7 +38,6 @@
             txtSearchResults = new RichTextBox();
             label2 = new Label();
             label3 = new Label();
-            imageList1 = new ImageList(components);
             helpButton = new Button();
             panel1.SuspendLayout();
             SuspendLayout();
@@ -116,13 +115,7 @@
             label3.Size = new Size(275, 32);
             label3.TabIndex = 6;
             label3.Text = "Desktop Search Engine";
-            // 
-            // imageList1
-            // 
-            imageList1.ColorDepth = ColorDepth.Depth32Bit;
-            imageList1.ImageStream = (ImageListStreamer)resources.GetObject("imageList1.ImageStream");
-            imageList1.TransparentColor = Color.RosyBrown;
-            imageList1.Images.SetKeyName(0, "1009849-200.png");
+           
             // 
             // helpButton
             // 
@@ -168,7 +161,6 @@
         private Label label3;
         private ProgressBar progressBar1;
         private RichTextBox txtSearchResults;
-        private ImageList imageList1;
         private Button helpButton;
     }
 }
